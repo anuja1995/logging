@@ -26,7 +26,7 @@ logger.addHandler(f_handler)
 
 logger.warning('This is warning')
 logger.error('This is error')
-
+logger.error('git changes')
 
 
 
